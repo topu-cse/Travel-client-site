@@ -78,7 +78,7 @@ const Navber = () => {
         <li className="text-white  hover:text-amber-400"> <Link to={'login'}>Login</Link></li>
        </ul>
     </div>
-    <Link className="p-2 ml-5 md:text-center  normal-case text-xl text-white hover:text-amber-400" to={'/'}>Fruits Family</Link>
+    <Link className="p-2 ml-5 md:text-center  normal-case text-xl text-white hover:text-amber-400" to={'/'}>Mystic Travel</Link>
   </div>
   <div className="navbar-center hidden lg:flex">
    

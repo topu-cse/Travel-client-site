@@ -15,7 +15,7 @@ const Discover = () => {
                     </div>
                     <div className='w-1/2'>
 
-                        <h1 className="my-5   font-bold md:text-2xl sm:text-sm md:my-10 ">
+                        <h1 className="my-5   font-bold md:text-2xl sm:text-sm md:my-10  ">
                             Traveling around,<br /> from place to place</h1>
                         <p className="py-4">A long journey including the visiting of a number of places in sequence, especially with an organized group led by a guide. </p>
                         <p className="py-2">one of tours are study purpose or can be helping events or family celebrating events. tour is kind of physical change in some favorite experience. </p>
